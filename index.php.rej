@@ -1,0 +1,7 @@
+diff a/index.php b/index.php	(rejected hunks)
+@@ -44,3 +44,4 @@
+ // $arr = str_split($str);
+ // var_dump($arr);
+ 
++echo "string";
+\ No newline at end of file
