@@ -34,14 +34,15 @@ define('MY_ROOT', dirname(dirname(dirname(__FILE__))));
 // 	echo "Connection to memcached failed";
 // }
 
-$str = "见放辣椒的浪费了
-        傲慢放假矮了让乐乐";
+$str = "独乐乐，不如总兵官蕾蕾";
 
 $str2 = str_replace('', '\n', $str);
 
 echo $str;
 echo "<br>";
 echo $str2;
+
+echo "string";
 // $arr = str_split($str);
 // var_dump($arr);
 
