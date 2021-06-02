@@ -34,7 +34,7 @@ define('MY_ROOT', dirname(dirname(dirname(__FILE__))));
 // 	echo "Connection to memcached failed";
 // }
 
-$str = "独乐乐，不如总兵官蕾蕾";
+$str = "独乐乐，不如总 兵官蕾蕾";
 
 $str2 = str_replace('', '\n', $str);
 
