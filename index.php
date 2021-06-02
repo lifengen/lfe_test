@@ -39,7 +39,7 @@ $str = "独乐乐，不如总 兵官蕾蕾";
 $str2 = str_replace('', '\n', $str);
 
 echo $str;
-echo "<br> 发的 发的";
+echo "<br> 发的 发的发的";
 echo $str2;
 
 echo "string";
